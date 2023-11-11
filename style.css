@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner:wght@500&family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kenia&display=swap');
 
 * {
-    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Kenia', sans-serif;
     font-weight: 700;
     color: #ccaa70;
     
@@ -28,8 +28,7 @@ body{
 }
 
 #titulo_Principal {
-    color: red;
-    background: green;
+    color: #9a031e;
     font-size: 50pt;
     margin: 0px;
     margin-bottom: 10px;
@@ -39,6 +38,11 @@ body{
     border-color: #FFC158
     
 }
+
+/* #background {
+    background-image: url("./assets/Poker.jpg");
+    
+} */
 
 h2 {
     border-bottom: solid 2px;

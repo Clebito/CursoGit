@@ -1,2 +1,4 @@
 console.log("Hello Git!");
-console.log("Fala tu");
+
+const img = document.querySelector ("Jogador");
+console.log(Jogador)
